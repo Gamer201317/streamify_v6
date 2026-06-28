@@ -1,0 +1,89 @@
+╔══════════════════════════════════════════════════════════════╗
+║           STREAMIFY — BIBLIOTHEEK STRUCTUUR                  ║
+╚══════════════════════════════════════════════════════════════╝
+
+Maak een hoofdmap (bijv. "Streamify") en maak daarbinnen
+deze submappen aan:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 Movies/
+   ├─ Inception.mp4
+   ├─ inception.jpg          ← cover (optioneel, zelfde naam)
+   ├─ Interstellar.mkv
+   ├─ interstellar.jpg
+   └─ The Dark Knight.mp4
+
+📁 Series/
+   ├─ Breaking Bad/
+   │   ├─ cover.jpg          ← ALTIJD "cover.jpg" noemen
+   │   ├─ S01E01.mp4
+   │   ├─ S01E02.mp4
+   │   ├─ S02E01.mp4
+   │   └─ S02E02.mp4
+   └─ Chernobyl/
+       ├─ cover.jpg
+       ├─ S01E01.mp4
+       └─ S01E02.mp4
+
+📁 Collections/
+   ├─ Jurassic Park/
+   │   ├─ cover.jpg          ← ALTIJD "cover.jpg" noemen
+   │   ├─ Jurassic Park.mp4
+   │   ├─ The Lost World.mp4
+   │   ├─ Jurassic Park III.mp4
+   │   └─ Jurassic World.mp4
+   └─ Marvel/
+       ├─ cover.jpg
+       ├─ Iron Man.mp4
+       └─ Iron Man 2.mp4
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MAPNAMEN (EXACT):
+  ✅ Movies   of  Films
+  ✅ Series
+  ✅ Collections
+
+COVER BESTANDEN:
+  ✅ Voor series/collections: cover.jpg (in de submap)
+  ✅ Voor losse films: zelfde naam als de film (inception.jpg)
+  ✅ Formaten: .jpg, .jpeg, .png, .webp
+
+VIDEOFORMATEN:
+  ✅ .mp4, .mkv, .avi, .mov, .m4v, .webm
+
+AFLEVERINGEN NAAMGEVING:
+  ✅ S01E01.mp4  (aanbevolen)
+  ✅ Episode 1.mp4
+  ✅ 1x01.mp4
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HOE TE GEBRUIKEN:
+
+1. Maak de mappenstructuur aan in de Bestanden-app
+   (iCloud Drive of Op mijn iPad)
+
+2. Zet je video's en covers op de juiste plek
+
+3. Open Streamify in Safari
+
+4. Druk op de grote ▶ Start knop
+
+5. Selecteer je hoofdmap (bijv. "Streamify")
+
+6. Klaar! Jouw bibliotheek wordt geladen.
+
+TIPS:
+  • Gebruik de ↺ knop om bestanden opnieuw te laden
+    (nodig na herstart van de app)
+  • Houd het logo 3 sec ingedrukt voor verborgen import
+  • PiP: tik op het PiP-icoon tijdens afspelen
+  • Progress wordt automatisch opgeslagen
+  • Favorieten: tik op het hartje op een poster
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                        STREAMIFY v1.0
+              Geen server · Geen account · Offline
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
